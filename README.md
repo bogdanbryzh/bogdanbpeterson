@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 ![BGitHub stats](https://github-readme-stats.vercel.app/api?username=bogdanbryzh-official&show_icons=true&theme=cobalt)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bogdanbryzh-official&theme=cobalt&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bogdanbryzh-official&theme=cobalt&date_format=j%20M%5B%20Y%5D)
